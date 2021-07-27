@@ -1,11 +1,8 @@
-<div style="text-align: center">
-<h3>Escuela Politécnica Nacional</h3>
-<h3>Facultad de Ingeniería de Sistemas</h3>
-<h3>Carrera de Ingeniería de Software</h3>
-<h3>Materia de Aplicaciones Móviles</h3>
-<br />
+<div style="text-align: center;">
 <h2>Historias de Usuario - SCRIMA (Network Scanner)</h2>
 </div>
+
+**Integrantes:** Alejandro Llanganate y Edison Quimbiamba
 
 A continuación se detallan las épicas e historias usuario de la aplicación android por desarrollar.
 
