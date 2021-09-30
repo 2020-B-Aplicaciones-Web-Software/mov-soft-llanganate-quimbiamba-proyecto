@@ -1,0 +1,2 @@
+rootProject.name = "SCRIMA"
+include ':app'

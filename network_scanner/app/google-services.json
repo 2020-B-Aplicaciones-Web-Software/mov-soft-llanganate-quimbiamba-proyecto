@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "378779346163",
+    "project_id": "moviles-network-scanner",
+    "storage_bucket": "moviles-network-scanner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378779346163:android:6e6b341f2b88922a4bc386",
+        "android_client_info": {
+          "package_name": "com.example.scrima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378779346163-67pme07hml2vmhlrgekv5j1buklbvvr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMu-zymhO7lKKVLNaFZK93u2RRKZsfKi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378779346163-67pme07hml2vmhlrgekv5j1buklbvvr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
